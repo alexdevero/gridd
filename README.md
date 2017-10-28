@@ -60,6 +60,19 @@ Gridd works in all major browsers that support the [Flexible Box Layout Module](
 | :---: | :------------: | :-------------: | :----: |
 |  +10  |  +45           |  +45            | +8.4   |
 
+### Support my projects
+
+I open-source the majority of my projects. I also try to reply to everyone who needs help with using any of my projects. You can use all these projects as you wish *for free*! Also, you can change the source code and redistribute it if you want.
+
+If you want to show your support and support these project, there are few ways you can do it:
+
+ - Starring and sharing the projects you like
+ - [![Donate](https://img.shields.io/badge/Donate-Paypal-brightgreen.svg?colorB=259cd2)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKLGUUB34ASEL)—You can make one-time donations via PayPal.
+ - [![Donate](https://img.shields.io/badge/Donate-Patreon-brightgreen.svg?colorB=f86213)](https://www.patreon.com/alexdevero)—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
+ <!-- - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `` -->
+
+Thank you!
+
 ## Code of Conduct
 
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
