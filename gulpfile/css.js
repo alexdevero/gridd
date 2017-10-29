@@ -88,7 +88,7 @@ gulp.task('css:prod', () => {
     }))
 })
 
-// Test all Sass files with Sass-lint
+// Test all CSS files with CSSlint
 gulp.task('css:test', () => {
   return gulp.src('./src/**/*.css')
     .pipe(plumber())
