@@ -13,6 +13,15 @@
 
 When all you need is a simple grid.
 
+### Table of contents
+* [Install](#install)
+* [Usage](#usage)
+* [Example](#example)
+* [Supported browsers](#supported-browsers)
+* [Support this project](#support-this-project)
+* [Code of Conduct](#code-of-conduct)
+* [License](#license)
+
 ## Install
 ```
 $ npm install gridd
