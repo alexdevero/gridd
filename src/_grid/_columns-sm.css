@@ -1,0 +1,71 @@
+/* Columns - small */
+
+@media (min-width: $breakpoint-sm) {
+  .gridd-col-sm {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+  }
+
+  .gridd-col-sm-1 {
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+  }
+
+  .gridd-col-sm-2 {
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+
+  .gridd-col-sm-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+  .gridd-col-sm-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+
+  .gridd-col-sm-5 {
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+
+  .gridd-col-sm-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .gridd-col-sm-7 {
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+
+  .gridd-col-sm-8 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+
+  .gridd-col-sm-9 {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+
+  .gridd-col-sm-10 {
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+
+  .gridd-col-sm-11 {
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+  }
+
+  .gridd-col-sm-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
