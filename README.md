@@ -68,8 +68,8 @@ If you want to show your support and support these project, there are few ways y
 
  - Starring and sharing the projects you like
  - [![Donate](https://img.shields.io/badge/Donate-Paypal-brightgreen.svg?colorB=259cd2)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKLGUUB34ASEL)—You can make one-time donations via PayPal.
- - [![Donate](https://img.shields.io/badge/Donate-Patreon-brightgreen.svg?colorB=f86213)](https://www.patreon.com/alexdevero)—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
- <!-- - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `` -->
+ - [![Donate](https://img.shields.io/badge/Donate-Patreon-brightgreen.svg?colorB=f86213)](https://www.patreon.com/alexdevero)—Set up a recurring monthly donation and you will get interesting news about what I'm doing.
+ - <img alt="Releases" src="https://img.shields.io/badge/Donate-Bitcoin-brightgreen.svg?colorB=fab915">—You can send me bitcoins at this address: `19jHGagJWeVvuNjN3kaBoAszXd9ea9gKzp`.
 
 Thank you!
 
