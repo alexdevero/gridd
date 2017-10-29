@@ -52,7 +52,7 @@ Then you can use all available Gridd classes. This example will create two colum
 </div>
 ```
 
-### Supported browsers:
+## Supported browsers:
 
 Gridd works in all major browsers that support the [Flexible Box Layout Module](http://caniuse.com/#feat=flexbox).
 
@@ -60,7 +60,7 @@ Gridd works in all major browsers that support the [Flexible Box Layout Module](
 | :---: | :------------: | :-------------: | :----: |
 |  +10  |  +45           |  +45            | +8.4   |
 
-### Support this project
+## Support this project
 
 <!-- This project is released as an open-source. If you need help with using this project, please ask and I will do my best reply to as soon as possible. You can use this project as you wish *for free*. Also, you can change the source code and redistribute it if you want. -->
 
