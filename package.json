@@ -40,7 +40,9 @@
   "main": "main.js",
   "scripts": {
     "clean": "rm -r ./dist/*",
-    "build": "set NODE_ENV=production && postcss ./src/gridd.css --dir ./dist --map false ",
+    "build:dev": "set NODE_ENV=production && postcss ./src/gridd.css --dir ./dist --map false --config postcss-dev.config.js",
+    "build:full": "npm run build:dev && npm run build:prod",
+    "build:prod": "set NODE_ENV=production && postcss ./src/gridd.css --dir ./dist --map false --config postcss-prod.config.js",
     "start": "set NODE_ENV=development && gulp dev",
     "test": "set NODE_ENV=test && gulp test"
   },
