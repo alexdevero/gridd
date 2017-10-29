@@ -1,0 +1,41 @@
+/* Containers */
+
+.gridd-container,
+.gridd-container-extended,
+.gridd-container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+@media (min-width: $breakpoint-sm) {
+  .gridd-container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: $breakpoint-md) {
+  .gridd-container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: $breakpoint-lg) {
+  .gridd-container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: $breakpoint-xl) {
+  .gridd-container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: $breakpoint-xxl) {
+  .gridd-container-extended {
+    max-width: 1680px;
+  }
+}
