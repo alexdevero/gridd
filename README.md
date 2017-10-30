@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <a href="https://david-dm.org/alexdevero/gridd"><img alt="Dependency Status" src="https://david-dm.org/alexdevero/gridd.svg?style=flat"></a>
   <a href="https://david-dm.org/alexdevero/gridd?type=dev"><img alt="devDependency Status" src="https://david-dm.org/alexdevero/gridd/dev-status.svg?style=flat"></a>
   <a href="http://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/npm/l/express.svg"></a>
@@ -14,6 +14,7 @@
 When all you need is a simple grid.
 
 ### Table of contents
+
 * [Install](#install)
 * [Usage](#usage)
 * [Example](#example)
@@ -23,6 +24,7 @@ When all you need is a simple grid.
 * [License](#license)
 
 ## Install
+
 ```
 $ npm install gridd
 ```
