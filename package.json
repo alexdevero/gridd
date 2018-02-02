@@ -44,7 +44,7 @@
     "build:full": "npm run build:dev && npm run build:prod",
     "build:prod": "cross-env NODE_ENV=production gulp css:prod",
     "start": "cross-env NODE_ENV=development gulp dev",
-    "test": "cross-env NODE_ENV=test gulp css:test"
+    "test": "cross-env NODE_ENV=test stylelint ./src/**/*.css"
   },
   "dependencies": {
     "postcss-cssnext": "^3.1.0",
@@ -62,7 +62,6 @@
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1",
     "gulp-csscomb": "^3.0.8",
-    "gulp-csslint": "^1.0.0",
     "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^7.0.1",
     "gulp-rename": "^1.2.2",
@@ -70,6 +69,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
-    "require-dir": "^0.3.2"
+    "require-dir": "^0.3.2",
+    "stylelint": "^8.4.0"
   }
 }

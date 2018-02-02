@@ -4,7 +4,6 @@ import gulp from 'gulp'
 
 import browserSync from 'browser-sync'
 import csscomb from 'gulp-csscomb'
-import csslint from 'gulp-csslint'
 import cssnano from 'cssnano'
 import cssnext from 'postcss-cssnext'
 import cssimport from 'postcss-import'
@@ -86,13 +85,4 @@ gulp.task('css:prod', () => {
     .pipe(browserSync.stream({
       match: '**/*.css'
     }))
-})
-
-// Test all CSS files with CSSlint
-gulp.task('css:test', () => {
-  return gulp.src('./src/**/*.css')
-    .pipe(plumber())
-    .pipe(csslint())
-    .pipe(csslint.formatter())
-    .pipe(csslint.failFormatter('fail'))
 })
